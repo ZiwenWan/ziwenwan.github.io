@@ -57,7 +57,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Education
 ------
-* Ph.D. student/candidate in Computer Science, University of California, Irvine, 2019 - present
+* Ph.D. candidate in Computer Science, University of California, Irvine, 2019 - present
 * B.Sc. in Computer Science, Nanjing University, 2015 - 2019
 
 Selected Publications
