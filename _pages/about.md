@@ -65,32 +65,28 @@ Selected Publications
 
 * ### [NDSS'22] Too Afraid to Drive: Systematic Discovery of Semantic Dos vulnerability in Autonomous Driving Planning under Physical-World Attacks
 
-  **Ziwen Wan**, Junjie Shen, Jalen Chuang, Xin Xia, Joshua Garcia, Jiaqi Ma, Qi Alfred Chen
-
+  **Ziwen Wan**, Junjie Shen, Jalen Chuang, Xin Xia, Joshua Garcia, Jiaqi Ma, Qi Alfred Chen\
   In *29th Annual Network and Distributed System Security Symposium, NDSS 2022* (acceptance rate in fall 14.1% = 53/377)
+  [<span style="color:blue">[paper] text</span>](https://ziwenwan.github.io/files/ndss22.pdf)
 
 * ### [IROS'23] Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection
 
-  Junjie Shen, Yunpeng Luo, **Ziwen Wan**, Qi Alfred Chen
-
+  Junjie Shen, Yunpeng Luo, **Ziwen Wan**, Qi Alfred Chen\
   In *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2023*
 
 * ### [IV'23] Detecting Data Spoofing in Connected Vehicle Based Intelligent Traffic Signal Control Using Infrastructure-Side Sensors and Traffic Invariants
 
-  Junjie Shen, **Ziwen Wan**, Yunpeng Luo, Yiheng Feng, Z. Morley Mao, Qi Alfred Chen
-
+  Junjie Shen, **Ziwen Wan**, Yunpeng Luo, Yiheng Feng, Z. Morley Mao, Qi Alfred Chen\
   In *2023 IEEE Intelligent Vehicles Symposium, IV 2023*
 
 * ### [ICSE'23] Doppelganger Test Generation for Revealing Bugs in Autonomous Driving Software
 
-  Yuqi Huai, Yuntianyi Chen, Sumaya Almanee, Tuan Ngo, Xiang Liao, **Ziwen Wan**, Qi Alfred Chen, Joshua Garcia
-
+  Yuqi Huai, Yuntianyi Chen, Sumaya Almanee, Tuan Ngo, Xiang Liao, **Ziwen Wan**, Qi Alfred Chen, Joshua Garcia\
   In *45th International Conference on Software Engineering, ICSE 2023* (acceptance rate 26% = 209/796)
 
 * ### [Preprint] SoK: On the Semantic AI Security in Autonomous Driving
 
-  Junjie Shen, Ningfei Wang, **Ziwen Wan**, Yunpeng Luo, Takami Sato, Zhisheng Hu, Xinyang Zhang, Shengjian Guo, Zhenyu Zhong, Kang Li, Ziming Zhao, Chunming Qiao, Qi Alfred Chen
-
+  Junjie Shen, Ningfei Wang, **Ziwen Wan**, Yunpeng Luo, Takami Sato, Zhisheng Hu, Xinyang Zhang, Shengjian Guo, Zhenyu Zhong, Kang Li, Ziming Zhao, Chunming Qiao, Qi Alfred Chen\
   *arXiv*:2203.05314 2022
 
 
