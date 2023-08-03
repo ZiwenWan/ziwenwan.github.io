@@ -67,7 +67,8 @@ Selected Publications
 
   **Ziwen Wan**, Junjie Shen, Jalen Chuang, Xin Xia, Joshua Garcia, Jiaqi Ma, Qi Alfred Chen\
   In *29th Annual Network and Distributed System Security Symposium, NDSS 2022* (acceptance rate in fall 14.1% = 53/377)\
-  [<span style="color:blue">[paper]</span>](https://ziwenwan.github.io/files/ndss22.pdf), [<span style="color:blue">[project site]</span>](https://sites.google.com/view/cav-sec/planfuzz)
+  [<span style="color:blue">[paper]</span>](https://ziwenwan.github.io/files/ndss22.pdf), [<span style="color:blue">[project site]</span>](https://sites.google.com/view/cav-sec/planfuzz)\
+  Media coverage: [<span style="color:blue"><u>UC News</u></span>](https://www.universityofcalifornia.edu/news/autonomous-vehicles-can-be-tricked-dangerous-driving-behavior), [<span style="color:blue"><u>CPS-VO</u></span>](https://cps-vo.org/node/85237), [<span style="color:blue"><u>ACM Tech News</u></span>](https://technews.acm.org/archives.cfm?fo=2022-06-jun/jun-01-2022.html), [<span style="color:blue"><u>Help Net Security</u></span>](https://www.helpnetsecurity.com/2022/06/02/autonomous-vehicles-can-be-tricked/), [<span style="color:blue"><u>Futurity</u></span>](https://www.futurity.org/driverless-cars-navigation-accidents-2745592/) 
 
 * ### [IROS'23] Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection
 
