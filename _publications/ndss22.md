@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ndss22
 excerpt: '<u>Ziwen Wan</u>, Junjie Shen, Jalen Chuang, Xin Xia, Joshua Garcia, Jiaqi Ma, Qi Alfred Chen'
 date: 2022-04-01
-venue: '29th Annual Network and Distributed System Security Symposium, NDSS 2022'
+venue: '29th Annual Network and Distributed System Security Symposium, NDSS'
 paperurl: 'https://ziwenwan.github.io/files/ndss22.pdf'
 citation: 
 ---
